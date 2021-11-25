@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7800],{1382:function(e){e.exports=JSON.parse('{"allTagsPath":"/react-mastery/fa/blog/tags","slug":"/react-mastery/fa/blog/tags/hello","name":"hello","count":2,"permalink":"/react-mastery/fa/blog/tags/hello"}')}}]);
