@@ -19,7 +19,7 @@ const config = {
     defaultLocale: "en",
     locales: ["en", "fa"],
   },
-  deploymentBranch: "main",
+  trailingSlash: false,
   presets: [
     [
       "@docusaurus/preset-classic",
