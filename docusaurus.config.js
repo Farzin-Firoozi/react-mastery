@@ -8,19 +8,18 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "React Mastery",
   tagline: "All you should know about react",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://farzin-firoozi.github.io",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "Farzin-firoozi", // Usually your GitHub org/user name.
-  projectName: "React Mastery", // Usually your repo name.
-
+  organizationName: "farzin-firoozi", // Usually your GitHub org/user name.
+  projectName: "react-mastery", // Usually your repo name.
   i18n: {
     defaultLocale: "en",
     locales: ["en", "fa"],
   },
-
+  deploymentBranch: "main",
   presets: [
     [
       "@docusaurus/preset-classic",
