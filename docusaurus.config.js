@@ -8,8 +8,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "React Mastery",
   tagline: "All you should know about react",
-  url: "https://farzin-firoozi.github.io",
-  baseUrl: "react-mastery/",
+  url: "https://farzin-firoozi.github.io/react-mastery",
+  baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
