@@ -9,7 +9,7 @@ const config = {
   title: "React Mastery",
   tagline: "All you should know about react",
   url: "https://farzin-firoozi.github.io/",
-  baseUrl: "react-mastery/",
+  baseUrl: "/react-mastery/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
