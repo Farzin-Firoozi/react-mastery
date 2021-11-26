@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3562],{9172:function(e){e.exports=JSON.parse('{"allTagsPath":"/react-mastery/blog/tags","slug":"/react-mastery/blog/tags/facebook","name":"facebook","count":1,"permalink":"/react-mastery/blog/tags/facebook"}')}}]);
